@@ -19,7 +19,7 @@ public class Setup {
        caps.setCapability("appPackage","com.google.android.calculator");
        caps.setCapability("appActivity","com.android.calculator2.Calculator");
        caps.setCapability("automationName","UiAutomator2");
-       caps.setCapability("app","D:\\Apk\\calculator.apk");
+       caps.setCapability("app",System.getProperty("user.dir")+"/src/test/resources/calculator.apk");
 
 
 
