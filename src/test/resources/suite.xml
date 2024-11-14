@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Calculator App">
+    <test name="'Calculator Automation">
+        <clssses>
+            <class name="CalcTestRunner"></class>
+        </clssses>
+    </test>
+</suite>
